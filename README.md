@@ -4,7 +4,7 @@
         <div>
         <div>
             <MARQUEE scrollamount="6" width="500" height="300" behavior="alternate">
-                <IMG src="ghost8399-img/c0.PNG" width="500" height="200">
+                <IMG src="Projet-1-POO-2-GL-2021/ghost8399-img/c0.PNG" width="500" height="200">
                 <IMG src="ghost8399-img/c1.PNG" width="500" height="200">
                 <IMG src="ghost8399-img/c2.PNG" width="500" height="200">
                 <IMG src="ghost8399-img/c3.PNG" width="500" height="200">
