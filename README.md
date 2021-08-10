@@ -1,5 +1,5 @@
 ## Projet 1 POO2 GL 2021
-<h1>MDK</h1>
+<h2>Mohamed Djim Kebe et Cheikh Kaire Mbengue</h2>
 <body>
         <div>
         <div>
@@ -11,6 +11,9 @@
                 <IMG src="c4.PNG" width="500" height="200">
                 <IMG src="c5.PNG" width="500" height="200">
                 <IMG src="c6.PNG" width="500" height="200">
+                <IMG src="po.PNG" width="500" height="200">
+                <IMG src="pont1.PNG" width="500" height="200">
+                <IMG src="pp3e.PNG" width="500" height="200">
                 
             </MARQUEE>
            
