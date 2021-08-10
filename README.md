@@ -16,5 +16,7 @@
            
         </div>
     </div>
+                        
+                        <a href="/pdf"> Voir mes documentations</a>
       
     </body>
